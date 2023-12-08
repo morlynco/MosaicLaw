@@ -8,3 +8,12 @@
 |4. |High cost of living/Inflation        |10%|
 |5. |Unifying the country                 | 4%|
 |5. |Poverty/Hunger/Homelessness          | 4%|
+
+# Priorities
+1. Civil Rights and Civil Liberties
+2. 
+
+# Wishlist
+*
+*
+*

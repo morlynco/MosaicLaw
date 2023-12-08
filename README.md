@@ -10,7 +10,7 @@ You don't need a legal degree to write a bill you want to see passed! Our commun
 ## 1) Contribute!
 * Create new draft legislation (using [this](/Examples/README.md) template)
 * Edit existing draft legislation
-* Add to the "[Wishlist](/Top%20Issues/Wishlist.txt)"
+* Add to the "[Wishlist](/Top%20Issues#Wishlist)"
 * Comment on existing draft legislation
 
 ## 2) Share!

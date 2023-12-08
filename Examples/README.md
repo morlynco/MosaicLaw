@@ -18,33 +18,30 @@ The intent of this bill is to reduce pedestrian fatalities.
 
 ### Articles (Journalism):
 *Why Do I Keep Having to Save Pedestrians - Man with Spider-tendencies* **([Link](https://www.google.com))**<br>
-*I'll Break Ya if You Cross That Street.. - Man with Bat-tendencies* **([Link](https://www.google.com))**
-<br>
+*I'll Break Ya if You Cross That Street.. - Man with Bat-tendencies* **([Link](https://www.google.com))**<br>
+
 
 ### Notes:
-Modeled after a [similar bill](https://www.google.com) passed by Los Angeles, CA in 2017.
-<br>
+Modeled after a [similar bill](https://www.google.com) passed by Los Angeles, CA in 2017.<br>
+
 
 ### Authors:
 * Jane Doe, J.D. (NYU Law)
 * John Doe (ABC Policy Group)
 * Jimmy Doe (unaffiliated contributor)
-* Jimothy Doe (Resident, NYC)
-<br>
+* Jimothy Doe (Resident, NYC)<br>
 
 ### Sponsors:
 * Alice Smith; New York City, NY ($1200) [context: owns jaywalking store]
-* Bob Johnson; Boston, MA ($500) [context: n/a]
-<br>
+* Bob Johnson; Boston, MA ($500) [context: n/a]<br>
 
 ### Public Comments:
 * I like this! - Steve (New York City, NY)
-* I think this is unnecesary - Sarah (Buffalo, NY)
-<br>
+* I think this is unnecesary - Sarah (Buffalo, NY)<br>
 
 ### Text:<br>
 
-**BILL NO. XX-2023**
+**BILL NO. XX-2023**<br>
 
 **AN ACT TO REGULATE PEDESTRIAN TRAFFIC THROUGH THE IMPLEMENTATION OF A JAYWALKING LICENSE SYSTEM**
 

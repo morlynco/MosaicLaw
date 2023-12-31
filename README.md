@@ -12,6 +12,7 @@ You don't need a legal degree to write a bill you want to see passed! Our commun
 * Edit existing draft legislation
 * Add to the "[Wishlist](/Top%20Issues/Wishlist.txt)"
 * Comment on existing draft legislation
+* Help improve this repo!
 
 ## 2) Share!
 * Send this to your friend!

@@ -1,3 +1,3 @@
-* Origin Story
+# Origin Story
 
 Coming soon...

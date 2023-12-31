@@ -7,7 +7,7 @@
 
 ### Why Do We Use GitHub?
 
-* **Collaboration:**= GitHub makes it easy for anyone to contribute to your project, ensuring a collaborative environment
+* **Collaboration:** GitHub makes it easy for anyone to contribute to your project, ensuring a collaborative environment
 * **Transparency:** All changes and contributions are visible to everyone inolved, promoting transparency and accountability
 * **Version Control:** It keeps a record of all changes, allowing you to revert to previous versions if needed
 

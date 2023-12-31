@@ -1,9 +1,8 @@
 # Structure
-xx.yy.zz
+xx.yy
 
 xx = Level 1 Category<br>
 yy = Level 2 Category<br>
-zz = Level 3 Category<br>
 
 
 # Level 1 Category

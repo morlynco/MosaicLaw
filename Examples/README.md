@@ -25,13 +25,13 @@ The intent of this bill is to reduce pedestrian fatalities.
 Modeled after a [similar bill](https://www.duckduckgo.com) passed by Los Angeles, CA in 2017.<br>
 
 
-### Authors:
+### Sponsors/Authors:
 * Jane Doe, J.D. (NYU Law)
 * John Doe (ABC Policy Group)
 * Jimmy Doe (unaffiliated contributor)
 * Jimothy Doe (Resident, NYC)<br>
 
-### Sponsors:
+### Funding:
 * Alice Smith; New York City, NY ($1200) [context: owns jaywalking store]
 * Bob Johnson; Boston, MA ($500) [context: n/a]<br>
 

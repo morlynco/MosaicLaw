@@ -12,17 +12,17 @@ The intent of this bill is to reduce pedestrian fatalities.
 <br>
 
 ### Articles (Academic):
-*Urban Traffic and Pedestrian Risk: Assessing the Causes of Rising Pedestrian Fatalities in Metropolitan Areas - Big Important Researcher Lady* **([Link](https://www.google.com))**
-*Stepping into Danger: An Analysis of Pedestrian Deaths and Safety Measures in Urban Environments - Bigger Important Researcher Lady* **([Link](https://www.google.com))**
+*Urban Traffic and Pedestrian Risk: Assessing the Causes of Rising Pedestrian Fatalities in Metropolitan Areas - Big Important Researcher Lady* **([Link](https://www.duckduckgo.com))**
+*Stepping into Danger: An Analysis of Pedestrian Deaths and Safety Measures in Urban Environments - Bigger Important Researcher Lady* **([Link](https://www.duckduckgo.com))**
 <br>
 
 ### Articles (Journalism):
-*Why Do I Keep Having to Save Pedestrians - Man with Spider-tendencies* **([Link](https://www.google.com))**<br>
-*I'll Break Ya if You Cross That Street.. - Man with Bat-tendencies* **([Link](https://www.google.com))**<br>
+*Why Do I Keep Having to Save Pedestrians - Man with Spider-tendencies* **([Link](https://www.duckduckgo.com))**<br>
+*I'll Break Ya if You Cross That Street.. - Man with Bat-tendencies* **([Link](https://www.duckduckgo.com))**<br>
 
 
 ### Notes:
-Modeled after a [similar bill](https://www.google.com) passed by Los Angeles, CA in 2017.<br>
+Modeled after a [similar bill](https://www.duckduckgo.com) passed by Los Angeles, CA in 2017.<br>
 
 
 ### Authors:

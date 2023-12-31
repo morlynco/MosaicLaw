@@ -10,7 +10,7 @@ You don't need a legal degree to write a bill you want to see passed! Our commun
 ## 1) Contribute!
 * Create new draft legislation (using [this](/Examples/README.md) template)
 * Edit existing draft legislation
-* Add to the "[Wishlist](/Top%20Issues/Wishlist.txt)"
+* Add to the "[Wishlist](/Top%20Issues#Wishlist)"
 * Comment on existing draft legislation
 * Help improve this repo!
 
@@ -24,8 +24,8 @@ You don't need a legal degree to write a bill you want to see passed! Our commun
 * Send this to your everyone!
 
 ## 3) Advocate!
-* Contact your local representatives and ask them to bring one of our "Final Draft" bills to the next session!
-* Contact your local senators and ask them to bring one of our "Final Draft" bills to the next session!
+* Contact your [local senators](/Advocate#representative-lookup) and ask them to bring one of our "Final Draft" bills to the next session!
+* Contact your [local representatives](/Advocate#representative-lookup) and ask them to bring one of our "Final Draft" bills to the next session!
 
 ## 4) Make a suggestion!
 * Do you have a better way to do this? Let us know!

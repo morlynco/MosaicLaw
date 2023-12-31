@@ -48,7 +48,7 @@ Modeled after a [similar bill](https://www.duckduckgo.com) passed by Los Angeles
 *Be it enacted by the Senate and House of Representatives of New York in Congress assembled.*
 
 #### SECTION 1. SHORT TITLE
-This Act may be cited as the “**J**udicious **A**pproach to **Y**ielding and **W**alking **A**uthorization through **L**icensing and **K**nowledge Act" or "JAYWALK Act").
+This Act may be cited as the “**J**udicious **A**pproach to **Y**ielding and **W**alking **A**uthorization through **L**icensing and **K**nowledge Act" (or "JAYWALK Act").
 
 #### SECTION 2. PURPOSE
 The purpose of this Act is to enhance pedestrian safety and reduce pedestrian-related traffic incidents by establishing a licensure system for jaywalking.

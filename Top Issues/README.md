@@ -18,5 +18,5 @@
   * GDPR equivalent
   * Repeal Section 702 of the FISA
   * Strengthen 4th Amendment protections for the 21st century
-*
+* State - Bill prohibiting taxpayer funded stadiums
 *
